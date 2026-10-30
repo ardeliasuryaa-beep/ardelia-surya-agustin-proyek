@@ -1,0 +1,11 @@
+
+========================================
+   LAPORAN REKAP DAN ANALISIS NILAI
+========================================
+Total Siswa       : 5
+Rata-rata Kelas   : 75.00
+Nilai Minimum     : 45.0
+Nilai Maksimum    : 92.0
+Siswa Tuntas      : 4
+Siswa Belum Tuntas: 1
+========================================
